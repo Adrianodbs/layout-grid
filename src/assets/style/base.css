@@ -1,3 +1,11 @@
+
+@import url('./grid/cartao.css');
+@import url('./grid/index.css');
+@import url('./grid/menu.css');
+@import url('./grid/navbar.css');
+@import url('./grid/secao.css');
+@import url('./responsivo.css');
+
 /*Reset*/
 a {
     text-decoration: none;

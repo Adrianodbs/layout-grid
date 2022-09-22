@@ -7,3 +7,11 @@
 .menu-lateral__logo{
   justify-self: center;
 }
+
+/* @media only screen and (max-width: 1023px) {
+
+
+  .menu-lateral{
+      display: none;
+  }
+} */
